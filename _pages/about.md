@@ -6,7 +6,7 @@ subtitle: RA at AICE | UIUC MSIM
 
 profile:
   align: right
-  image: profile.png
+  image: profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Champaign, Illinois</p>
